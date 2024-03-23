@@ -48,7 +48,7 @@
   letter-spacing: -0.03em;
 }
 .footer_title_work {
-  color: #0041e8;
+  color: #e0373f;
 }
 
 .footer_title_together {
@@ -97,7 +97,6 @@
   border-bottom: 1px solid #fafafa;
 }
 .footer_form_input:focus {
-  border: 1px solid #0041e8;
   outline-offset: 5px;
   outline: transparent;
   border-radius: 5px;
@@ -115,7 +114,7 @@
   margin-top: 16px;
   width: 100px;
   height: 100px;
-  background-color: #0041e8;
+  background-color: #e0373f;
   border: none;
   border-radius: 50%;
   color: #fafafa;
@@ -127,7 +126,7 @@
 
 .footer_form_btn:hover,
 .footer_form_btn:focus {
-  background-color: #1151f1;
+  background-color: #e94c54;
   transform: scale(1.05);
 }
 

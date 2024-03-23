@@ -1,5 +1,5 @@
 .hero_section {
-  background-image: url('../img/Glass_effect/glass_effect_blue_hero.png');
+  background-image: url('../img/Glass_effect/Glass_effect_hero.png');
   background-repeat: no-repeat;
   background-size: 60% 100%;
   min-height: 812px;
@@ -7,7 +7,7 @@
 
 @media screen and (min-resolution: 192dpi) {
   .hero_section {
-    background-image: url('../img/Glass_effect/glass_effect_blue_hero@2x.png');
+    background-image: url('../img/Glass_effect/Glass_effect_hero@2x.png');
   }
 }
 .title {
@@ -34,7 +34,7 @@
 }
 .social_list_item {
   display: flex;
-  border: 1px solid #0035e6;
+  border: 1px solid #e0373f;
   border-radius: 60px;
   margin: 0;
   height: 37px;

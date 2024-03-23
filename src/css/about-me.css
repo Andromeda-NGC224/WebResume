@@ -55,7 +55,7 @@
 }
 
 .about-top-text-blue {
-  color: #0041e8;
+  color: #e0373f;
 }
 
 .about-top-text-grey {
@@ -220,7 +220,7 @@ button#ac-trigger-2.about-info-list-item-btn.ac-trigger:hover {
 
 .about-skills-list-item.active {
   border: none;
-  background-color: #0041e8;
+  background-color: #e0373f;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 

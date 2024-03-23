@@ -86,10 +86,10 @@
     flex-direction: row;
     gap: 10px;
     border-radius: 60px;
-    border: 1px solid #0041e8;
+    border: 1px solid #e0373f;
     width: 141px;
     height: 55px;
-    background: #0041e8;
+    background: #e0373f;
   }
 
   .text-button {
@@ -209,10 +209,10 @@
     flex-direction: row;
     gap: 10px;
     border-radius: 60px;
-    border: 1px solid #0041e8;
+    border: 1px solid #e0373f;
     width: 177px;
     height: 55px;
-    background: #0041e8;
+    background: #e0373f;
   }
 
   .text-button {
